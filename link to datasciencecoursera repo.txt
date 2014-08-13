@@ -1,1 +1,3 @@
 https://github.com/sallenus/datasciencecoursera.git
+https://github.com/sallenus/datasciencecoursera/blob/master/HelloWorld.md
+https://github.com/sallenus/datasharing.git
